@@ -4,7 +4,7 @@
 This analysis is based on tweets made from #WeRateDogs.
 So, I did be going from Gathering phase to Assessing phase and lastly to Cleaning phase. 
 
-<img src= https://video.udacity-data.com/topher/2017/October/59dd4e05_dog-pred/dog-pred.png width="600" height = '100'>
+<img src= https://video.udacity-data.com/topher/2017/October/59dd4e05_dog-pred/dog-pred.png width="600" height = '600'>
 
 <h2><ins><font color = 'green'> Gathering Phase </font></ins></h2>
 
@@ -48,4 +48,6 @@ The issues derived  are --
 
 Firstly, I made a copy of each datasets, then had to address the issues by cleaning them.
 After that, I merged the whole datasets together , Then store it as <b>'twitter_archive_master.csv'</b>.
+
+After this, I did analysis on the clean dataset, Pls check the file above for full view.
 
